@@ -1,0 +1,6 @@
+{
+    "innerAddress": "tcp://127.0.0.1:7070",
+    "proxyAddress": "tcp://127.0.0.1:9091",
+    "authKey": "123456",
+    "maxConnNumber": 20
+}
